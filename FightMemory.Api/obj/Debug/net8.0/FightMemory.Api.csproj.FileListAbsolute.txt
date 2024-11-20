@@ -1,0 +1,7 @@
+/Users/tainejarvis/Desktop/Code/FightMemory.Api/obj/Debug/net8.0/FightMemory.Api.csproj.AssemblyReference.cache
+/Users/tainejarvis/Desktop/Code/FightMemory.Api/obj/Debug/net8.0/FightMemory.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tainejarvis/Desktop/Code/FightMemory.Api/obj/Debug/net8.0/FightMemory.Api.AssemblyInfoInputs.cache
+/Users/tainejarvis/Desktop/Code/FightMemory.Api/obj/Debug/net8.0/FightMemory.Api.AssemblyInfo.cs
+/Users/tainejarvis/Desktop/Code/FightMemory.Api/obj/Debug/net8.0/FightMemory.Api.csproj.CoreCompileInputs.cache
+/Users/tainejarvis/Desktop/Code/FightMemory.Api/obj/Debug/net8.0/FightMemory.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/tainejarvis/Desktop/Code/FightMemory.Api/obj/Debug/net8.0/FightMemory.Api.MvcApplicationPartsAssemblyInfo.cache
